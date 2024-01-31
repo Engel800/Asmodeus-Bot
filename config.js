@@ -7,12 +7,12 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone' 
 global.owner = [
-    ['16714828922' , 'Asmodeus creador 2' , true], 
-  ['994403115531' , 'Asmodeus creador' , true], 
+    ['595975701824' , 'Asmodeus creador 2' , true], 
+  ['595975701824' , 'Asmodeus creador' , true], 
    
-  ['4794098204' , 'Asmodeus creador 4' , true], 
-    ['5355495621'], 
-    ['4520509766']
+  ['595975701824' , 'Asmodeus creador 4' , true], 
+    ['595975701824'], 
+    ['595975701824']
 ] 
 
 global.APIs = { // API Prefix
@@ -49,7 +49,7 @@ global.linkgc = ` .. ⃟ᬼ⃟𝗕꯭፝⁞𝝞⁞𝝚꯭፝⁞𝝢⁞፝𝐕꯭
 ꪶ❍ꫂ┊꞉ᴰᶦˢᶠʳᵘᵗᴬ ƴ ᵉˢᵖᵉʳᴬᵐᶱˢ ɋᵘᵉ ᵀᵉᶯᶢᵃᣵ ᶸᶮ ᵇᵘᵉᶰ ᵈᶦᵃ.
 
 ╭╼︩︪︣︢۰─⃫═⃫─╾۰❲𝖑𝖎𝖓︪︩𝖐𝖘❳۰╼─⃫═⃫─۰︪︩︣︢╾╮
-https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu
+https://Instagram.com/bee.company.official
 ╰╼︪︩︣︢۰─⃫═⃫─╾۰❲𝖑𝖎𝖓︩︪𝖐𝖘❳۰╼─⃫═⃫─۰︩︪︣︢╾╯ `
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
@@ -59,7 +59,7 @@ global.imagen5 = fs.readFileSync('./src/+18.jpg')
 global.imagen6 = fs.readFileSync('./src/demon-devil.gift')
 global.imagen7 = fs.readFileSync('./src/Menu-principal.mp4')
 global.imagen8 = fs.readFileSync('./src/7s-clan')
-global.nn = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' 
+global.nn = 'https://Instagram.com/eleng.s_' 
 global.mods = [] 
 global.lolkeysapi = ['ApiLolhuman[pickRandom(lolkeys)']
 
@@ -108,17 +108,17 @@ global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg'
 global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg'
 
 
-global.nna = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Help
-global.nn = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8ugOEnwmrCIKxPadExhhu' //Grupo 9 COL
+global.nna = 'https://Instagram.com/bee.company.official' //UPDATE GATABOT
+global.nna2 = 'https://Instagram.com/bee.company.official' //Help
+global.nn = 'https://Instagram.com/bee.company.official' //Grupo 1
+global.nnn = 'https://Instagram.com/bee.company.official' //Grupo 2
+global.nnnt = 'https://Instagram.com/bee.company.official' //Grupo 3
+global.nnntt = 'https://Instagram.com/bee.company.official' //Grupo 4
+global.nnnttt = 'https://Instagram.com/eleng.s_' //Grupo 5
+global.nnnttt1 = 'https://Instagram.com/eleng.s_' //Grupo 6 COL
+global.nnnttt2 = 'https://Instagram.com/eleng.s_' //Grupo 7 COL
+global.nnnttt3 = 'https://Instagram.com/eleng.s_' //Grupo 8 COL
+global.nnnttt4 = 'https://Instagram.com/eleng.s_' //Grupo 9 COL
 
 global.ag = 'Advertencia' 
 global.fg = 'fallo' 
